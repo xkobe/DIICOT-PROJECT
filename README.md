@@ -89,5 +89,7 @@ This is an example of console results and how will displayed and the results wil
 Anyone who want free acces u just need to join on telegram and PM Administrator !
 More updates comming in feature !
 ```
-[![Telegram Channel](https://t.me/diicotproject)
+<a href="https://t.me/diicotproject">
+  <img src="https://github.com/xkobe/DIICOT-PROJECT/blob/main/tg.png?raw=true" width="200" height="50"/>
+</a>
 > This repository is intended for educational purposes and aims to help users learn and understand important concepts in [specific field]. The code and resources within this repository are provided to support the learning and experimentation process. All usage is strictly for personal study and practice. Contributions and constructive feedback are encouraged to improve this project.
