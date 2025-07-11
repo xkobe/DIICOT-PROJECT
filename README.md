@@ -1,4 +1,6 @@
-# DIICOT-PROJECT
+DIICOT-PROJECT 
+SSH-BRUTE FORCE
+https://t.me/diicotproject
 Panel:
 <img width="1867" height="892" alt="image" src="https://github.com/user-attachments/assets/f218bfca-ce3e-451b-8d7e-51c84f8f5d47" />
 Features:
