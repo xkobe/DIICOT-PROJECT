@@ -2,7 +2,7 @@
 
 We must make the world a better place!
 
-## Brute-SSH-FORCE:
+## Brute-SSH:
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/54e05eb0-d479-47c6-80da-dfa89716887c" />
 
 - Multi port - "ip:port" ipfile
