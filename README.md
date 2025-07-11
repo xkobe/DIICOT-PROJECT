@@ -85,7 +85,9 @@ This is an example of console results and how will displayed and the results wil
 ```
 
 ## INFO:
+```
 Anyone who want free acces u just need to join on telegram and PM Administrator !
 More updates comming in feature !
-<p align="left">  <a href="https://t.me/diicotproject"><img width="200" height="50" src="https://imgur.com/a/ysV4f5s"></a></p>
+```
+<p align="left">  <a href="https://t.me/diicotproject"><img width="200" height="50" src="https://imgur.com/a/qjXPdoM"></a></p>
 > This repository is intended for educational purposes and aims to help users learn and understand important concepts in [specific field]. The code and resources within this repository are provided to support the learning and experimentation process. All usage is strictly for personal study and practice. Contributions and constructive feedback are encouraged to improve this project.
